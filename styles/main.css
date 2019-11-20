@@ -1,0 +1,222 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top {
+    padding-top: 10px;
+
+}
+
+.logo {
+    position: relative;
+    padding-left: 10px;
+    height: 35px;
+    top: 12px;
+}
+
+.searchbar {
+    padding: 10px;
+    padding-left: 20px;
+    margin-left: 30px;
+    height: 25px;
+    width: 620px;
+    border-radius: 100px;
+    outline: none;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(170, 170, 170, 0.418);
+}
+
+.searchbar:hover {
+    border-color: white;
+    box-shadow: 0 0 10px rgba(170, 170, 170, 0.418);
+}
+
+.mic {
+    height: 25px;
+    position: relative;
+    top: 9px;
+    left: -75px;
+}
+
+.mag {
+    height: 20px;
+    position: relative;
+    top: 7px;
+    left: -70px;
+}
+
+.apps {
+    height: 18px;
+    margin-left: 390px;
+    position: relative;
+    top: 5px;
+}
+
+.apps:hover {
+    background-color: rgba(80, 80, 80, 0.664);
+}
+
+.signin {
+    height: 30px;
+    margin-left: 25px;
+    position: relative;
+    top: 11px;
+}
+
+.navbar {
+    margin-left: 160px;
+    margin-top: 20px;
+}
+
+.navbar li {
+    display: inline-block;
+    padding:  10px; 
+    padding-left: 10px;
+    padding-top: 2px;
+    font-size: 0.8em;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: rgb(102, 102, 102);
+}
+
+.all {
+    height: 13px;
+    position: relative;
+    top: 2px;
+    left: -2px;
+    color: blue;
+}
+
+#all {
+    color: blue;
+}
+
+.news {
+    height: 15px;
+    position: relative;
+    top: 2px;
+    left: -2px;
+}
+
+.maps {
+    height: 13px;
+    position: relative;
+    top: 2px;
+    left: -3px;
+}
+
+.videos {
+    height: 18px;
+    position: relative;
+    top: 4px;
+}
+
+.shopping {
+    height: 13px;
+    position: relative;
+    top: 2px;
+    left: -3px;
+}
+
+.more {
+    height: 13px;
+    position: relative; 
+    top: 2px;
+    left: -2px;
+}
+
+.space {
+    margin-left: 40px;
+}
+
+.safes {
+    margin-left: 440px;
+}
+
+.bluebar {
+    width: 55px;
+    height: 3px;
+    background-color: blue;
+    margin-left: 165px;
+    position: relative;
+    top: 6px;
+}
+
+.divider {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(199, 199, 199, 0.651);
+    margin-top: 5px;
+}
+
+.resultno {
+     color: rgb(122, 122, 122);
+     font-size: 0.9em;
+     margin-left: 165px;
+     margin-top: 10px;
+}
+
+.searchres {
+    margin-top: 30px;
+    margin-left:  165px;
+}
+
+.searchres h1 {
+    font-size: 1.3em;
+    color: blue;
+    margin-bottom: 7px;
+}
+
+.searchres h2 {
+    color: rgb(31, 121, 31);
+    margin-bottom: 5px;
+}
+
+.searchres p {
+    font-size: 0.9em;
+    line-height: 23px;
+    color: rgb(82, 82, 82);
+}
+
+.ad {
+    font-size: 0.7em;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    padding: 1px 2px;
+}
+
+.also {
+    margin-left: 155px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-color: rgb(201, 201, 201);
+    height: 200px;
+    width: 600px;
+}
+
+.also h1 {
+    font-size: 1.4em;
+    padding: 5px 0;
+}
+
+.drop {
+    border-width: 1px;
+    border-style: solid;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-left: -11px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-right: -1px;
+    margin-bottom:-6px;
+    border-color: rgb(192, 192, 192);
+    color: rgb(58, 58, 58);
+}
